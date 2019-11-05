@@ -16,7 +16,7 @@ public class BOJ_2293_JAVA {
 
 		int ary[] = new int[n+1];
 		for(int i = 1 ; i <= n ; i ++) ary[i] = scan.nextInt();
-		Arrays.sort(ary);
+		Arrays.sort(ary); //숫자가 오름차순으로 들어오지 않을 수 있으니 한번 sort 해준다.
 
 
 		for(int i = 1 ; i <= n ; i ++) {
