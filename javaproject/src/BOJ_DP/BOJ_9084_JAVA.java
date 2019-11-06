@@ -2,7 +2,8 @@ package BOJ_DP;
 
 import java.util.Scanner;
 
-public class BOJ_9084_JAVA {
+public class BOJ_9084_JAVA { //백준 9084 동전 java 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);

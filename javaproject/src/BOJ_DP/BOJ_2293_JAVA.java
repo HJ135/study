@@ -2,7 +2,7 @@ package BOJ_DP;
 
 import java.util.*;
 
-public class BOJ_2293_JAVA { //동전1
+public class BOJ_2293_JAVA { //백준 2293 동전1 java
 
 	public static void main(String[] args) {
 
