@@ -2,7 +2,7 @@ package BOJ_DP;
 
 import java.util.*;
 
-public class BOJ_2293_JAVA {
+public class BOJ_2293_JAVA { //µ¿Àü1
 
 	public static void main(String[] args) {
 

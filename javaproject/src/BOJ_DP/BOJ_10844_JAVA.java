@@ -2,7 +2,7 @@ package BOJ_DP;
 
 import java.util.*;
 
-public class BOJ_10844_JAVA {
+public class BOJ_10844_JAVA { //쉬운 계단 수
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 
