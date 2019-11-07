@@ -1,9 +1,9 @@
 package BOJ_DP;
 
-import java.util.*;
+import java.util.Scanner;
 
-public class Main {
-
+public class BOJ_1912_JAVA { //백준 1912번 연속합 java
+	
 	public static void main(String[] args) {
 		Scanner scin = new Scanner(System.in);
 		int size = scin.nextInt();
@@ -30,5 +30,4 @@ public class Main {
 
 		scin.close();
 	}//main 끝
-
 }//class 끝
