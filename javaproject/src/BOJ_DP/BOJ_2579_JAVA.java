@@ -1,10 +1,9 @@
 package BOJ_DP;
 
-import java.util.*;
+import java.util.Scanner;
 
-public class Main {
-
-
+public class BOJ_2579_JAVA { //백준 2579번 계단 오르기 java
+	
 	public static void main(String[] args) {
 		Scanner scin = new Scanner(System.in);
 		int size = scin.nextInt();
@@ -33,5 +32,4 @@ public class Main {
 		
 		scin.close();
 	}//main 끝
-
-}//class 끝
+}
