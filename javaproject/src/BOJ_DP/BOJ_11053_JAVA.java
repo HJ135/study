@@ -22,6 +22,7 @@ public class BOJ_11053_JAVA {//백준 11053 가장 긴 증가하는 부분수열 java
 
 		for(int i=0; i<size ; i++) if(dynamic[i]>max) max = dynamic[i];
 
+		
 		System.out.println(max);
 
 	}

@@ -1,10 +1,9 @@
 package BOJ_DP;
 
-import java.util.*;
+import java.util.Scanner;
 
-public class Main {
-
-
+public class BOJ_11054_JAVA { //백준 11054번 가장 긴 바이토닉 부분 수열 java
+	
 	public static void main(String[] args) {
 		Scanner scin = new Scanner(System.in);
 		int size = scin.nextInt();
@@ -44,6 +43,4 @@ public class Main {
 		}
 		
 	}
-	
-
-}//class 끝
+}
